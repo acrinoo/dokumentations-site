@@ -25,9 +25,43 @@ html {
     height: 350px;
 }
 
+.postit2 {
+    width: 400px;
+    height: 350px;
+}
+
+.storyboard {
+    width: 500px;
+    height: 450px;
+    transform: rotate(90deg);
+
+
+}
+
+.instafeatures {
+    display: inline-block;
+    background-color: mistyrose;
+
+}
+
 body {
     max-width: 1200px;
     margin: 0 auto;
+}
+
+.IG1 {
+    width: 500px;
+
+}
+
+.IG2 {
+    width: 500px;
+
+}
+
+.IG3 {
+    width: 500px;
+
 }
 
 /* Navigation */
